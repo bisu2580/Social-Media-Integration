@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_button">Login with Facebook</string>
+    <string name="google_button">Login with Google</string>
+    <string name="username">UserName</string>
+    <string name="email_tv">"Email ID: "</string>
+    <string name="profile_email">biswatian123@gmail.com</string>
+    <string name="copyright">Copyright@2022Biswajit Sahoo</string>
+    <string name="welcome_text">Welcome to \n The Sparks Foundation</string>
+    <string name="goodbye_text_google">Logout from google</string>
+    <string name="goodbye_text_facebook">Logout from facebook</string>
+    <string name="client_id">200384167815-s8rs27i198mpfofkfbmf2t4hu8pjece3.apps.googleusercontent.com</string>
+    <string name="image">image</string>
+    <string name="icon_google">Google icon</string>
+    <string name="icon_fb">Facebook icon</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="userEmail">User Email</string>
+    <string name="facebook_app_id">487621226621569</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">a0a568ba72e2d7dc87a333b6544ec3f6</string>
+    <string name="developerName">Biswajit Sahoo</string>
+    <string name="developed_by">Developed By:</string>
+    <string name="name_tv">Name:</string>
+    <string name="display_first_name">First Name</string>
+    <string name="display_last_name">Last Name</string>
+    <string name="profile_details">Profile Details</string>
+</resources>
