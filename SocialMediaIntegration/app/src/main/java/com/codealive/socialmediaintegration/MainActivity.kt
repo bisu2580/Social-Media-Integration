@@ -62,6 +62,7 @@ class MainActivity : AppCompatActivity() {
             finish()
         }
 
+        callbackManager=CallbackManager.Factory.create()
         requestSignIn()
 
         binding?.loginWithGoogle?.setOnClickListener { signIn() }
